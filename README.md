@@ -161,7 +161,7 @@ source=“security_log.log” Source=203.0.113.45 | stats count by EventID, Stat
 Micahel Ampo
 Security Analyst | Cybersecurity Enthusiast
 imykee85@gmail.com
-[LinkedIn Profile]
+http://linkedin.com/in/michael-ampo-b9181219b
 
 
 
